@@ -1,0 +1,15 @@
+*
+{
+	margin-left: 1%;
+	margin-right: 1%;
+	font-family: Raleway;
+}
+
+header
+{
+	display: grid;
+	grid-template-columns: 5fr 3fr;
+	background-color: aquamarine;
+}
+
+
